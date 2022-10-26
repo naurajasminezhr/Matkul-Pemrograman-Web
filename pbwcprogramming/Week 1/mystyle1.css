@@ -1,0 +1,31 @@
+ body {
+            background-color: rgb(229, 160, 120);
+        }
+
+        h1 {
+            color: white;
+        }
+
+        p {
+            font-family: verdana;
+            font-size: 20px;
+        }
+
+        h6 {
+            color: rgb(104, 0, 0);
+        }
+
+        img {
+            border-radius: 15px;
+        }
+
+        a {
+            color: black;
+            background-color: rgb(108, 195, 245);
+            text-decoration: none;
+        }
+
+        .bordergambar {
+            border: 2px solid rgb(141, 32, 173);
+            border-radius: 5px;
+        }
